@@ -20,7 +20,7 @@ global.location = "Indonesia, Jawa Tengah" //ur location
 //new
 global.botname = "Fandyck Bot"
 global.ownernumber = '628138341152'
-global.ownername = '🦄Dream Guy Deepak'
+global.ownername = 'Fandy'
 global.ownerNumber = ["6281384341152@s.whatsapp.net"]
 global.ownerweb = ""
 global.websitex = ""
